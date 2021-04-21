@@ -19,8 +19,8 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Ji Huns Pro File"
 description: "2017108248 고지훈 자기소개서 페이지 오신것을 환영합니다 :)!"
-baseurl: "/profile" # the subpath of your site, e.g. "/blog"
-url: "https://rhwlgns4386.github.io"
+baseurl: "/profile"
+url: "https://rhwlgns4386.github.io/profile"
 logo: "/images/iconmonstr-idea-7-240.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
